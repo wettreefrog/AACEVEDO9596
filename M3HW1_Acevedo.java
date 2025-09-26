@@ -1,10 +1,4 @@
-from pathlib import Path
-
-# Define file path for M3HW1 assignment
-file_path3 = Path("/mnt/data/M3HW1_Acevedo.java")
-
-# Create Java content for M3HW1 assignment
-java_code3 = """// CircleDemo.java 
+// CircleDemo.java 
 // A simple program to calculate area, circumference, and diameter of a circle 
 
 public class M3HW1_Acevedo { 
@@ -32,9 +26,3 @@ public class M3HW1_Acevedo {
 4. Area formula → π × radius × radius 
 5. Math.PI gives the value of π (3.14159...). 
 */ 
-"""
-
-# Write to file
-file_path3.write_text(java_code3)
-
-file_path3
