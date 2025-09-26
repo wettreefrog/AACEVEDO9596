@@ -1,10 +1,4 @@
-from pathlib import Path
-
-# Define file path
-file_path2 = Path("/mnt/data/M3CW2_Acevedo.java")
-
-# Create Java content for M3CW2 assignment
-java_code2 = """public class M3CW2_Acevedo { 
+public class M3CW2_Acevedo { 
 
     public static void main(String[] args) { 
 
@@ -40,9 +34,3 @@ java_code2 = """public class M3CW2_Acevedo {
         System.out.println("String Value: " + myString); 
     } 
 } 
-"""
-
-# Write to file
-file_path2.write_text(java_code2)
-
-file_path2
