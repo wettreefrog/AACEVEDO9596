@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class M4CW1_Acevedo {
+public class M4CW1_Aceved0 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
