@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M4CW1_Acevedo",
+            "request": "launch",
+            "mainClass": "M4CW1_Acevedo",
+            "projectName": "AACEVEDO9596_ad803717"
+        },
+        {
+            "type": "java",
             "name": "M3HW1_Acevedo",
             "request": "launch",
             "mainClass": "M3HW1_Acevedo",
