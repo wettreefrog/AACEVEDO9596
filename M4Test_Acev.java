@@ -1,10 +1,11 @@
 // Alexander Acevedo
 // M4 Hands-On Test
 // Date: October 9, 2025
-
+// This program asks the user to enter a temperature in Fahrenheit and categorizes
+// the weather using decision structures. It also handles negative temperatures.
 import java.util.Scanner;
 
- {
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
