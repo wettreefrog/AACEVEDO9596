@@ -6,9 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "M4CW1_Acevedo",
+            "name": "M4Test_Acevedo",
             "request": "launch",
-            "mainClass": "M4CW1_Acevedo",
+            "mainClass": "M4Test_Acevedo",
             "projectName": "AACEVEDO9596_ad803717"
         },
         {
